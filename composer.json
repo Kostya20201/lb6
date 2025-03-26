@@ -1,0 +1,7 @@
+{
+    "name": "user/lb2.local",
+    "type": "project",
+    "require": {
+        "mongodb/mongodb": "^1.8"
+    }
+}
